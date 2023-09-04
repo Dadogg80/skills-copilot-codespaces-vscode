@@ -21,3 +21,4 @@ router.delete('/delete/:id', auth, commentController.deleteComment);
 
 // Export router
 module.exports = router;
+
